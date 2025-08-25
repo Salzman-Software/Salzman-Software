@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there o/
+My name is Jack Salzman
+I am currently studying **Computer Science** at **Wright State University.**
 
+Projects:
+- Web hosting at salzmansoftware.com
+- Minecraft Server at mc.salzmansoftware.com
+- Public File Server at files.salzmansoftware.com
 <!--
 **Salzman-Software/Salzman-Software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
