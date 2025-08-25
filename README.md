@@ -1,4 +1,4 @@
-## Hi there o/
+## Hello there
 My name is Jack Salzman
 I am currently studying **Computer Science** at **Wright State University.**
 
